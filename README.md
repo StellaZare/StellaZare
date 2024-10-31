@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @StellaZare
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently studying at the University of Victoria
-- 📫 How to reach me at zareistella@gmail.com
-
-
+Hi, I’m @StellaZare
+I am a 4th year Software Engineering student at the University of Victoria.
